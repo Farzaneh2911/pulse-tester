@@ -55,7 +55,7 @@ get_header();
          </div>
         </div>
 
-        <!-- 2018 Circle with blend mode -->
+        <!-- 2018 Circle -->
         <div class="relative inline-block mb-4 hero-2018-wrapper">
           <div class="hero-2018-circle rounded-full"></div>
           <span class="hero-2018-text flex items-center justify-center font-bold">
@@ -70,14 +70,12 @@ get_header();
     </div>
 
     <!-- Scroll indicator -->
-    <!-- Center small “scroll down” text on mobile -->
+    
       <div class="scroll-indicator absolute bottom-8 left-1/2 -translate-x-1/2 hidden lg:flex flex-col items-center">
          <span class="scroll-text">SCROLL DOWN FOR MORE</span>
          <div class="scroll-arrow"></div>
       </div>
   </section>
-
-  <!-- ABOUT SECTION -->
 
  <!-- ABOUT SECTION -->
   <section id="about" class="section section-about">

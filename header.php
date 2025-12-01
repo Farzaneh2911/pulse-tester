@@ -10,13 +10,10 @@
 
 <body <?php body_class('bg-gray-900'); ?>>
 
-<!-- FIXED HEADER -->
 <header class="fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-200">
 
-  <!-- Header wrapper with PSD width -->
+  
   <div class="header-container">
-
-    <!-- HEADER HEIGHT EXACTLY 152px -->
    
     <div class="header-inner">
       <!-- LEFT LOGO -->
@@ -54,11 +51,11 @@
       </div>
     
 
-    </div><!-- END header height container -->
+    </div>
 
-  </div><!-- END max width wrapper -->
+  </div><
 
 </header>
 
-<!-- Spacer for fixed header height -->
+
 <div class="header-spacer"></div>

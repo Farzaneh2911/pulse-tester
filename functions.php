@@ -8,7 +8,7 @@ function pulse_tester_assets() {
         null
     );
 
-    // Your theme stylesheet
+    
     wp_enqueue_style(
         'pulse-style',
         get_stylesheet_uri(),
